@@ -7,15 +7,22 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "vue": "^2.6.6",
-    "vue-router": "^3.0.1"
+    "@antv/data-set": "^0.10.2",
+    "@antv/g2": "^3.4.10",
+    "axios": "^0.18.0",
+    "greensock": "^1.20.2",
+    "moment": "^2.24.0",
+    "vue": "^2.6.10",
+    "vue-amap": "^0.5.8",
+    "vue-router": "^3.0.1",
+    "vue-video-player": "^5.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
     "@vue/cli-service": "^3.5.0",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
-    "vue-template-compiler": "^2.5.21"
+    "vue-template-compiler": "^2.6.10"
   },
   "postcss": {
     "plugins": {
